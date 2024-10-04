@@ -43247,7 +43247,7 @@ zG(){var s=0,r=A.U(t.z),q=this,p
 var $async$zG=A.V(function(a,b){if(a===1)return A.R(b,r)
 while(true)switch(s){case 0:A.eu("Fetch Started")
 s=2
-return A.Y(A.aOW(A.eq("http://localhost:3000/contenues",0,null)),$async$zG)
+return A.Y(A.aOW(A.eq("https://cyberprevention.secfonops.fr/contenues",0,null)),$async$zG)
 case 2:p=b
 q.Z(new A.aoo(q,B.bF.zr(0,A.arb(J.b3(A.aqt(p.e).c.a,"charset")).eH(0,p.w),null)))
 A.eu("Fetch Completed")
